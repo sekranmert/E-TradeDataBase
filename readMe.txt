@@ -1,0 +1,1 @@
+this project is a simple database program. Customers and their infos are saved in an array and the their items are saved as linked lists. this project uses jdk8 and netbeans8.2 ide. 
